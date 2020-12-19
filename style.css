@@ -1,0 +1,109 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /*background-color: rgba(0, 0, 0, 0.5);*/
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #c7c7c7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  
+  font-family: Corbel Light;
+  font-size: 150%;
+
+padding: 50px;
+}
+
+/* Change the link color to ##c7c7c7 (#c7c7c7) on hover */
+li a:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+li:last-child {
+  border-right: none;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+h1 {
+
+ display: block;
+  /*color: #c7c7c7;*/
+  color: #525252;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  
+  font-family: Corbel Light;
+  font-size: 350%;
+
+}
+
+h2 {
+ display: block;
+  color: #525252;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Corbel Light;
+  font-size: 150%;
+}
+
+h4 {
+ display: block;
+  color: #2b2b2b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Corbel Light;
+  font-size: 150%;
+}
+
+
+h3 {
+ display: block;
+  color: #525252;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Corbel Light;
+  font-size: 200%;
+}
+secret {
+  color: #525252;
+  text-decoration: none;
+  font-family: Corbel Light;
+  
+}
+
+
+.bg-img {
+  width: 100%;
+  padding: 10% 0;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid;
+}
+
+body {
+/*SAMPLE IMAGE, REMOVE LATER!*/
+  /*background-image: url('resources/images/leaves2.jpg'); */
+  background-size: cover;
+ background-repeat: no-repeat;
+
+}
