@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I design and showcase various projects on my [YouTube channel](https://www.youtube.com/channel/UCePOz2lIBFTQIcZI9pE7isg "YouTube channel")
 
 <!--
 **ElectronsFellOut/ElectronsFellOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
