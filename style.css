@@ -12,16 +12,18 @@ li {
 
 li a {
   display: block;
-  color: #c7c7c7;
+  /*color: #c7c7c7;*/
+    color: #525252;
   text-align: center;
-  padding: 14px 16px;
+
+  padding: 35px 5vw;
   text-decoration: none;
 
-  
+
   font-family: Corbel Light;
   font-size: 150%;
 
-padding: 50px;
+/*padding: 50px;*/
 }
 
 /* Change the link color to ##c7c7c7 (#c7c7c7) on hover */
@@ -48,13 +50,25 @@ h1 {
   padding: 14px 16px;
   text-decoration: none;
 
-  
+
   font-family: Corbel Light;
   font-size: 350%;
 
 }
 
 h2 {
+ display: block;
+  color: #525252;
+  text-align: center;
+
+ padding-left: 20%;
+ padding-right: 20%;
+  text-decoration: none;
+  font-family: Corbel Light;
+  font-size: 150%;
+}
+
+navh2 {
  display: block;
   color: #525252;
   text-align: center;
@@ -88,7 +102,7 @@ secret {
   color: #525252;
   text-decoration: none;
   font-family: Corbel Light;
-  
+
 }
 
 
